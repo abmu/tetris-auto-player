@@ -21,9 +21,9 @@ source .venv/bin/activate
 pip install pygame
 ```
 
-3. Adjust the weights used in the `player.py` file and settings such as the random seed in the `constants.py` file, if desired.
+3. If desired, adjust the weights used in the `player.py` file and settings such as the random seed in the `constants.py` file.
 
-4. Run the game
+4. Run the game:
 
 ```bash
 python3 visual-pygame.py
