@@ -1,5 +1,7 @@
 # engf34-assignment-4
 
+A high-scoring Tetris Auto-Player which attempts to play optimally by assigning heuristic values to each possible move.
+
 [tetris-auto-player.webm](https://github.com/user-attachments/assets/9c4c7f64-1fde-47d1-9981-93659a90ac99)
 
 ## Notes
