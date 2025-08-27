@@ -33,6 +33,6 @@ python3 visual-pygame.py
 
 The implementation of the custom Tetris game itself was not done by me, but instead by Prof. Mark Handley and a faculty member of the UCL department of Computer Science.
 
-My code is limited to the following: `player.py`, `tetris_generations.py`, `generations/`. You can adjust and run the `tetris_generations.py` file to attempt to discover optimal weights using either simulated annealing or a genetic algorithn.
+My code is limited to the following: `player.py`, `tetris_generations.py`, `generations/`. You can adjust and run the `tetris_generations.py` file to attempt to discover optimal weights using either simulated annealing or a genetic algorithm.
 
 [Assignment brief](https://github.com/mhandley/ENGF34-2023/blob/main/assignments/assignment4/assignment4.pdf).
